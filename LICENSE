@@ -1,6 +1,17 @@
-MIT License
-
 Copyright (c) 2026 Krish Patel
+
+Student design work in this repository (extensions beyond the course scaffold)
+is released under the MIT License below.
+
+Course scaffold, testbenches, and related materials originate from
+McMaster University COMPENG 3DQ5 (instructors / teaching staff). Those
+portions remain under their original copyright and are not relicensed here.
+Intel Quartus megafunction / ROM IP files remain under Intel's notices
+embedded in those files.
+
+---
+
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
