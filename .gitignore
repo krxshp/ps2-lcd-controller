@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Quartus / Intel FPGA build artifacts
+**/db/
+**/incremental_db/
+**/output_files/
+**/simulation/
+**/greybox_tmp/
+**/_isolated/
+**/*.qws
+**/*.bak
+**/*.rpt
+**/*.summary
+**/*.done
+**/*.smsg
+**/*.jdi
+**/*.pin
+**/*.sof
+**/*.pof
+**/*.cdf
+**/c5_pin_model_dump.txt
+
+# Simulation work libs
+**/my_work/
+**/work/
+*.wlf
+transcript
+
+# Editor / OS
+*~
+*.swp
+.vscode/
+.idea/
+
+# Secrets / credentials (never commit)
+.env
+*.pem
+*.key
+*credentials*
+*secret*
